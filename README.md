@@ -1,6 +1,6 @@
 # Inspiration By: e-z.bio guns.lol feds.lol 
 
-- Profile Views
+- Profile View
 - Personal Links
 - Bio
 - Avatar
